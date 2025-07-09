@@ -2,9 +2,9 @@
 
 **A Campus Events Discovery Platform connecting students across colleges**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/CollegeCarnival?style=social)](https://github.com/yourusername/CollegeCarnival)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/CollegeCarnival?style=social)](https://github.com/yourusername/CollegeCarnival/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/CollegeCarnival)](https://github.com/yourusername/CollegeCarnival/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/CollegeCarnival?style=social)](https://github.com/adidhakane/CollegeCarnival)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/CollegeCarnival?style=social)](https://github.com/adidhakane/CollegeCarnival/fork)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/CollegeCarnival)](https://github.com/adidhakane/CollegeCarnival/issues)
 
 ---
 
@@ -60,3 +60,40 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/CollegeCarnival.git
    cd CollegeCarnival
+2. Setup Local Server
+   Place in htdocs folder (XAMPP/WAMP)
+   Start Apache & MySQL
+   Or use: php -S localhost:8000
+   Access: Open http://localhost:8000
+
+## Project Structure
+```bash
+CollegeCarnival/
+├── CSS/           # Stylesheets
+├── HTML/          # Web pages
+├── JS/            # JavaScript files
+├── Images/        # College images
+└── LOGIN-SIGNUP/  # Authentication
+```
+
+## Usage
+   Students: Browse events, register, stay updated
+   Organizers: Post events, manage registrations
+
+## Contributing
+   Fork the project
+   Create feature branch (git checkout -b feature/NewFeature)
+   Commit changes (git commit -m 'Add NewFeature')
+   Push to branch (git push origin feature/NewFeature)
+   Open Pull Request
+
+## Contact
+Aditya Dhakane
+Email: aditya.dhakane22@vit.edu
+Phone: +91 87669 03584
+Address: VIT Pune, 666, Upper Indira Nagar, Bibwewadi
+License
+
+Copyright © 2023 CollegeCarnival. All rights reserved.
+
+Made with ❤️ by students, for students
