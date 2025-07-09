@@ -57,10 +57,10 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/yourusername/CollegeCarnival.git
    cd CollegeCarnival
 2. Setup Local Server
-   Place in htdocs folder (XAMPP/WAMP)
-   Start Apache & MySQL
-   Or use: php -S localhost:8000
-   Access: Open http://localhost:8000
+- Place in htdocs folder (XAMPP/WAMP)
+- Start Apache & MySQL
+- Or use: php -S localhost:8000
+- Access: Open http://localhost:8000
 
 ## Project Structure
 ```bash
@@ -73,23 +73,23 @@ CollegeCarnival/
 ```
 
 ## Usage
-   Students: Browse events, register, stay updated
-   Organizers: Post events, manage registrations
+- Students: Browse events, register, stay updated
+- Organizers: Post events, manage registrations
 
 ## Contributing
-   Fork the project
-   Create feature branch (git checkout -b feature/NewFeature)
-   Commit changes (git commit -m 'Add NewFeature')
-   Push to branch (git push origin feature/NewFeature)
-   Open Pull Request
+- Fork the project
+- Create feature branch (git checkout -b feature/NewFeature)
+- Commit changes (git commit -m 'Add NewFeature')
+- Push to branch (git push origin feature/NewFeature)
+- Open Pull Request
 
 ## Contact
-Aditya Dhakane
-Email: aditya.dhakane22@vit.edu
-Phone: +91 87669 03584
-Address: VIT Pune, 666, Upper Indira Nagar, Bibwewadi
-License
+- Aditya Dhakane
+- Email: aditya.dhakane22@vit.edu
+- Phone: +91 87669 03584
+- Address: VIT Pune, 666, Upper Indira Nagar, Bibwewadi
 
+## License
 Copyright © 2023 CollegeCarnival. All rights reserved.
 
 Made with ❤️ by students, for students
