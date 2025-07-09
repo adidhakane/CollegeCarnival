@@ -1,11 +1,6 @@
 # CollegeCarnival 🎓
 
 **A Campus Events Discovery Platform connecting students across colleges**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/CollegeCarnival?style=social)](https://github.com/adidhakane/CollegeCarnival)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/CollegeCarnival?style=social)](https://github.com/adidhakane/CollegeCarnival/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/CollegeCarnival)](https://github.com/adidhakane/CollegeCarnival/issues)
-
 ---
 
 ## 📖 About The Project
