@@ -1,6 +1,7 @@
 # CollegeCarnival 🎓
 
 **A Campus Events Discovery Platform connecting students across colleges**
+
 ---
 
 ## 📖 About The Project
